@@ -1,0 +1,1 @@
+ /home/coffeelipe/Projects/personal/flutter/cool-calculator-flutter/.dart_tool/flutter_build/e3ef531658031d4ea12a0189a15e7a1a/native_assets.yaml: 
